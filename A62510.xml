@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The encouragement and reward of Christian charity set forth in a sermon preached in the chappel at the Rolls, October 9th 1659 by Raphael Throckmorton.</title>
+            <author>Throckmorton, Raphael, 1601-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62510</idno>
+            <idno type="STC">Wing T1130</idno>
+            <idno type="STC">ESTC R26967</idno>
+            <idno type="EEBO-CITATION">09597875</idno>
+            <idno type="OCLC">ocm 09597875</idno>
+            <idno type="VID">43762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1343:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The encouragement and reward of Christian charity set forth in a sermon preached in the chappel at the Rolls, October 9th 1659 by Raphael Throckmorton.</title>
+                  <author>Throckmorton, Raphael, 1601-1667.</author>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Garthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XVI, 9 --  Sermons.</term>
+               <term>Charity --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43762:1"/>
+            <pb facs="tcp:43762:1"/>
+            <p>THE ENCOURAGEMENT AND REWARD OF CHRISTIAN CHARITY Set forth in a SERMON Preached in the Chappel at the ROLLS: October 9<hi rend="sup">th</hi>. 1659.</p>
+            <p>By <hi>RAPHAEL THROCKMORTON,</hi> Late <hi>Arch-Deacon</hi> of <hi>Lincoln.</hi>
+            </p>
+            <q>
+               <p>Cuſtos es tuarum, non Dominus, facultatum.</p>
+               <bibl>S. Ambroſ. <hi>cap. 14. lib. de</hi> Naboth.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Garthwait,</hi> and are to be ſold neer the Little North-Door of <hi>S. Pauls</hi> Church. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:43762:2"/>
+            <pb n="1" facs="tcp:43762:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>The 16<hi rend="sup">th</hi>. Chapter according to the Evangeliſt</hi> S. Luke, <hi>the 9<hi rend="sup">th</hi>. verſe.</hi>
+                  </bibl>
+                  <p>Make to your ſelves Friends of the Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs, that when ye fail, they may receive you into everlaſting Habitation.</p>
+               </q>
+            </epigraph>
+            <p>UNder each one of thoſe three ſimilitudes of the loſt Sheep, the loſt Groate, and the Prodigall child, concentred all together in the former Chapter, is a <hi>tacit</hi> Implication of Gods mercie towards man; and here in this Parable of the Unjuſt Steward, eſpecially in the epi<g ref="char:EOLhyphen"/>logue, is a down-right Explication of what ſhall be, in fine, the bleſſed effect of Man's Charity towards God, in his diſtreſſed members.</p>
+            <p>But not to beguile time, and your attention with quaint<g ref="char:EOLhyphen"/>neſs either of Preamble, or Diviſion, this Text is, as 'twere, a Bill of Exchange, ſent from one Countrey to another, the returne whereof is Treaſure for Traſh, Celeſtiall Man<g ref="char:EOLhyphen"/>na for the Meat that periſheth, for temporall Riches, E<g ref="char:EOLhyphen"/>ternall Friends; One onely whereof will be better to you, at a dead lift, than all your Pelf, and Mammon of unrighteouſneſſe.</p>
+            <p>That then this <hi>Paraeneſis</hi> of the Maſter to his Diſciples may prove prophylacticall unto you, even a Sovereign Re<g ref="char:EOLhyphen"/>ceipt,
+<pb n="2" facs="tcp:43762:3"/> of wholeſome remedy for the ſaving of your ſoules, I ſay unto you therefore, Make to your ſelves friends of the Mammon of unrighteouſneſſe, that when ye faile, They may receive you into everlaſting habitations.</p>
+            <p>In which words, without violence, I may obſerve, three generall parts.
+<list>
+                  <item>A Preſcription of the matter, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; What: <hi>Make to your ſelves friends.</hi>
+                  </item>
+                  <item>A Deſcription of the manner, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, How? <hi>Of the Mammon of unrighteouſneſs.</hi>
+                  </item>
+                  <item>A Conſcription of the end, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; why? <hi>That when ye fail, they may receive you into everlaſting habitations.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Which reward, if you mark it, is notably advanc't by three remarkable Circumſtances.</p>
+            <p>The firſt whereof is taken from the Tempeſtivitie, or ſeaſonableneſs of the time of its collating, and that's when Ye ſhall fail.</p>
+            <p>The ſecond from the Dignitie of the perſons thus re<g ref="char:EOLhyphen"/>quiting, They, to wit, the Angells of God, by his appoint<g ref="char:EOLhyphen"/>ment, nay, upon your Beadſmens prayers, even God him<g ref="char:EOLhyphen"/>ſelf ſhall receive you.</p>
+            <p>The third from the excellencie of the places of your re<g ref="char:EOLhyphen"/>ception, which are alſo ſet forth in a ſequell of three.</p>
+            <p>By their
+<list>
+                  <item>Property, <hi>Habitations.</hi>
+                  </item>
+                  <item>Plurality, <hi>not one, but many.</hi>
+                  </item>
+                  <item>Perpetuity, <hi>Everlaſting.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>This is the Order by which I ſhall proceed, and theſe be the parts, through all which I ſhall now paſs, and that with as much ſhortneſs, and plainneſs, as the weight, and number of them ſhall admit: Onely the ſame hand vouch<g ref="char:EOLhyphen"/>ſafe the ſucceſſe, which doth the opportunitie.</p>
+            <p>And that I may punctually go on, I will touch firſt, where. I firſt ſhould, with the preſcription of the Matter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <note place="margin">1 <hi>Gener.</hi>
+               </note>
+               <hi>Make to your ſelves friends.</hi>
+            </p>
+            <pb n="3" facs="tcp:43762:3"/>
+            <p>
+               <hi>Make to your ſelves friends;</hi> And that's good Policie, for we have many enemies, but eſpecially three, which are ever in combination either to infeſt, or undermine our Nationall, Perſonall, and eternall Peace.</p>
+            <p>The
+<list>
+                  <item>World</item>
+                  <item>Fleſh</item>
+                  <item>Devill</item>
+               </list> with
+<list>
+                  <item>Infection</item>
+                  <item>Defection</item>
+                  <item>Interfection</item>
+               </list>
+               <q>
+                  <hi>Tria Cerberus extulit ora.</hi>
+               </q> 
+               <note place="margin">Maro</note>
+            </p>
+            <p>Thoſe accurſed Camelions turn themſelves into all ſhapes, that they may inſinuate under ſome; and as the <hi>Polypus,</hi> to compaſſe his prey, carries a reſemblance of that rock, neer which he lies, ſo that triple-headed-<hi>Cerberus,</hi> thoſe old malignant enemies of mankind prepare, and ap<g ref="char:EOLhyphen"/>ply there melled baits to all your humours, tempers, inclina<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Look about Ye then, and make you friends; A point verily of ſo great importance, as that our Saviour here preſ<g ref="char:EOLhyphen"/>ſeth it in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the firſt Aoriſt among the Greeks, a Tenſe which ſignifies the Time perfectly paſt, to ſhew 'tis high time we had begun, and already ſet our ſelves about the performance of this Duty, to make our ſelves friends.</p>
+            <p>There is, indeed ſaith that Divine Heathen,<note place="margin">Seneca.</note> 
+               <hi>ad amiciti<g ref="char:EOLhyphen"/>am ferens quaedam naturalis irritatio,</hi> a certaine kind of natu<g ref="char:EOLhyphen"/>rall proclivitie in every individuall man, and woman to make themſelves friends; but irreſiſtable is the <hi>Suadae</hi> of ſound experience, whilſt we may communicate our joyes without envy, our ſecrets without diſcovery, into the bo<g ref="char:EOLhyphen"/>ſome of our friend; and there alſo disburthen our com<g ref="char:EOLhyphen"/>plaints, in theſe ſad and heavie times, not without ſome helpfull, and compaſſionate ſympathie. And ſo ye may read, Act. 12.20. that, for the nouriſhment of their Countrey the Tyrians, and Sidonians had a care, the Court being then in faſhion, to make <hi>Blaſtus,</hi> King <hi>Herods</hi> Chamberlain, there friend.</p>
+            <pb n="4" facs="tcp:43762:4"/>
+            <p>But friends, now adaies, are like hot water, which when cold-weather comes doth ſooneſt freeze.</p>
+            <p>
+               <note place="margin">Terence.</note>Like <hi>Cuckoes</hi> all ſummer, they may ſing a ſcurvey note, <hi>pulchre, bene, recte,</hi> but gone they are, ſure enough, before Autumne, or the Fall.</p>
+            <p>
+               <note place="margin">Ovid.</note>
+               <hi>Accipiet nullas ſordida turris aves.</hi>
+            </p>
+            <p>Nay, as Vermine do an houſe on fire, ſo will ſome friends leave thee in thy greateſt need, though rank't a<g ref="char:EOLhyphen"/>mong even thy cheifeſt, and choiſeſt companions; <hi>inter primas, vel ſecundas admiſſiones,</hi> as the Philoſopher phra<g ref="char:EOLhyphen"/>ſeth it.</p>
+            <p>But againſt ſuch familiars, and trencher-friends, King <hi>David</hi> paſſionately, and pathetically complaines, ſaying, <hi>It was not an open enemie, that diſhonoured mee, and reproach<g ref="char:EOLhyphen"/>ed mee,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 55.12, 13, 14.</note> 
+               <hi>and magnified himſelf againſt mee, but it was thou, who diddeſt eat of my bread, thou my guide, thou my companion,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and even thou mine owne familiar friend.</p>
+            <p>
+               <note place="margin">Caeſar <hi>to</hi> Brutus.</note>Make yee therefore ſuch friends, as the Lord Jeſus here inſinuates, who will never be wanting to you in their pre<g ref="char:EOLhyphen"/>ſence, nor ſcanting in their conſolations.</p>
+            <p>And leaſt ye ſhould miſtake in the manner thereof, my next Generality deſcribeth how,</p>
+            <p>
+               <note place="margin">2 <hi>Gener.</hi>
+               </note>
+               <hi>Of the Mammon of unrighteouſneſſe.</hi>
+            </p>
+            <p>The word <hi>Mammon</hi> properly is a Syrian word, and good Syriack for the God of Riches; and Chriſt firſt of all brought it in among the Greeks, and paſſeth it here in the Dorick Idiome, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for what wealth, or goods ſoever we poſſeſſe.</p>
+            <p>
+               <note place="margin">
+                  <hi>Luc.</hi> 16.11.</note>As concerning the Adjunct of unrighteouſneſſe, in that there is a moſt ordinary Hebraiſme; for otherwiſe, it were much more congruous to ſay the <hi>unrighteous Mammon,</hi> than the <hi>Mammon of unrighteouſneſſe.</hi>
+            </p>
+            <p>But to take the words together, as they ly before us,
+<pb n="5" facs="tcp:43762:4"/> the <hi>Mammon of unrighteouſneſſe</hi> in plain Engliſh ſounds no more, then the vain inconſtant, tranſitorie, falſe and de<g ref="char:EOLhyphen"/>ceitfull riches, which we here enjoy.</p>
+            <p>And yet, for all thoſe epithites of derogation, Riches, doubtleſſe in themſelves are not evill, but the bleſſing of God, as <hi>Solomon</hi> affirms, Pro. 10.22.</p>
+            <p>
+               <hi>Ne quidem putentur ſumma bona, dantur &amp; malis,</hi>
+               <note place="margin">Aug. <hi>70.</hi> Epiſt. ad bonifa<g ref="char:EOLhyphen"/>cium. Luc. <hi>16.19.</hi>
+               </note> 
+               <hi>ſed ne putentur omnino mala, dantur &amp; bonis.</hi>
+            </p>
+            <p>Riches indeed that they may not be miſinterpreted to be the chief good, are given to the bad, as to the pur<g ref="char:EOLhyphen"/>pled <hi>Epicure;</hi> but leaſt they ſhould be taken abſolutely for bad, they are given to the good, as to faithfull <hi>Abraham,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 13.2.</note> who was very rich in cattell, and in ſilver, and in gold; and to holy <hi>Job,</hi> who for his many Camells, and oxen,<note place="margin">
+                  <hi>Job.</hi> 1.3.</note> and ſheep, was the onely ſubſtantiall Grandee of the Eaſt.</p>
+            <p>
+               <hi>Bona est pecunia in crumena, ſi non ſit peccatum in conſcien<g ref="char:EOLhyphen"/>tia;</hi> and we ſhould no more find fault with Riches <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſimply, and abſtractively conſidered, than we do with pure, and inſophiſticated wine, before it be put into a fu<g ref="char:EOLhyphen"/>ſty veſſell; but yet, to keep cloſe to the words of my Text, Riches may be called the <hi>Mammon of unrighteouſneſſe,</hi> in a five-fold reſpect.</p>
+            <p>As namely becauſe they may be
+<list>
+                  <item>1. Unrighteouſly gotten.</item>
+                  <item>2. Unrighteouſly kept.</item>
+                  <item>3. Unrighteouſly ſpent.</item>
+                  <item>4. Unrighteouſly truſted to.</item>
+               </list>
+            </p>
+            <p n="5">5. Becauſe they deal unrighteouſly with us in every point; as, by Gods bleſſing, ye ſhall hear anon.</p>
+            <p>For the firſt; Riches may be unrighteouſly gotten,<note place="margin">1 <hi>Sam.</hi> 2.13.16. <hi>Hab.</hi> 1.15.</note> ei<g ref="char:EOLhyphen"/>ther by our Predeceſſors, or our ſelves; and that either by <hi>Hop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nies</hi> hook, that is by force, or by <hi>Habbakucks</hi> net, that is by fraud; in both which caſes, whether thou beeſt an
+<pb n="6" facs="tcp:43762:5" rendition="simple:additions"/> unrighteous heir,<note place="margin">
+                  <hi>Hoſ.</hi> 12.2.7.</note> or an heir of the unrighteous, <hi>thou ſhall conſume as the fatte of lambs;</hi> for the Lord hath a controver<g ref="char:EOLhyphen"/>ſie with thee, and will blaſt the Mammon of ſo much un<g ref="char:EOLhyphen"/>righteouſly.</p>
+            <p>Secondly, Riches may be unrighteouſly kept, by their Owners,<note place="margin">
+                  <hi>Eccleſ.</hi> 5.13.</note> to their harm, and this is one of thoſe evills, which the Preacher ſaid he ſaw under the ſun.</p>
+            <p>
+               <note place="margin">Ber. in red. mor.</note>
+               <hi>Datur enim Mammon ad neceſſitatis fratrum impendia, vos vero pauperibus tenaces admodum non impertitis.</hi>
+            </p>
+            <p>The Lord hath furniſht many of ye with full Tables, and overflowing-cups, that ye may let fall ſome crumbs of comfort for poor <hi>Lazarus,</hi> and leave behind ye a little meat, and drink-offering, for ſuch as mourne in <hi>Sion;</hi> but the pure <hi>Mammoniſt</hi> will not untwiſt his Cable,<note place="margin">
+                  <hi>Luc.</hi> 16.21,</note> but his ve<g ref="char:EOLhyphen"/>ry Dogs take leave to be more mercifull, then he <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhould be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>viſui,</hi>
+               <note place="margin">Sr. Fra. Bacon.</note> and <hi>uſui</hi> both; and he was a fine Courtier, who ſaid, Money is like Muck, not good, unles't be ſpread; but where the <hi>ſculptura</hi> is the <hi>Scriptura,</hi> the <hi>Bills</hi> the <hi>Bible,</hi> the <hi>Pennie</hi> the <hi>Pater noſter,</hi> the <hi>coine</hi> the <hi>Creed,</hi> ſuch unrighteouſly hold faſt all, and adminiſter nothing to the neceſſities of the Saints, either <hi>ef fectu,</hi> by ſubvention, or <hi>affectu,</hi> by compaſſion.</p>
+            <p>They may perhaps afford a little Benevolence, but no Beneficence, Scripture enough againſt begging, yet no bread againſt famiſhing; bid a hungry and naked brother, or ſiſter,<note place="margin">
+                  <hi>Jam.</hi> 2.15, 16.</note> 
+               <hi>Go, and be filled, and be warmed,</hi> and yet ſuffer them to ſtarve for want either of food, or fire, like St. <hi>James</hi> his <hi>Zelots,</hi> Jam. 2.15, 16.</p>
+            <p>But the Preacher again hath ſet a fatall mark upon ſuch a man,<note place="margin">
+                  <hi>Eccleſ.</hi> 5.14.</note> and his <hi>Mammon</hi> both, ſaying, <hi>ſuch Riches ſhall pe<g ref="char:EOLhyphen"/>iſh by evil travail,</hi> and the man begetteth a ſon, and there nothing in his hand, nothing, but perhaps a pitch-fork, in<g ref="char:EOLhyphen"/>ſtead of the Fathers rake.</p>
+            <pb n="7" facs="tcp:43762:5" rendition="simple:additions"/>
+            <p>But thirdly, Riches may be unrighteouſly ſpent, to the drowning of our ſoules in many noiſome luſts, and their tempting of us daily to ſo much unrighteouſneſſe.</p>
+            <p>
+               <hi>Vitiis</hi> and <hi>Divitiis</hi> ſound alike in Latine, and in Engliſh, ye know, wealth and wickedneſſe are neer of kine.</p>
+            <p>
+               <hi>Nimia bonorum copia ingens malorum occaſio;</hi> Plenty of goods doth many times occaſion plenty of evils.</p>
+            <p>Goodneſs may laſt till good come, but dition of ſtate doth commonly alter the condition of the perſon.</p>
+            <p>
+               <hi>Tiberius</hi> was a good ſubject, but a very bad Emperour.<note place="margin">Tacitus.</note>
+            </p>
+            <p>How many had been good, had they not been great? Ask the Elder Brother, and He will tell thee;<note place="margin">
+                  <hi>Luk.</hi> 15.12, 13.</note> as for the Younger, the Scripture ſolveth that queſtion, where ſo ſoon as ever that Youngſter had received his portion, he turned Prodigall. <hi>Divitiae veniunt, Relligioque fugit.</hi>
+            </p>
+            <p>Fourthly,<note place="margin">
+                  <hi>Pſal.</hi> 49.6. <hi>Joh.</hi> 31.24.</note> Riches may be called the <hi>Mammon of unrighte<g ref="char:EOLhyphen"/>ouſneſs,</hi> becauſe we unrighteouſly put our truſt in them, <hi>ſay<g ref="char:EOLhyphen"/>ing to the Gold thou art my hope, and to the fine wedge, thou art my confidence.</hi>
+            </p>
+            <p>A liveleſſe piece of earth is our Maſter, yea our God, which we ſhrine in our coffers, and to which we ſacrifice our hearts like that moath-eaten Miſer in the Poet, kneel<g ref="char:EOLhyphen"/>ing down before the ſhrine of his gliſtring Deity,
+<q>
+                  <l>Indormis inhiatque &amp; tanquam parcere ſacris</l>
+                  <l>Cogitur, &amp; pictis tanquam gaudere tabellis.</l>
+                  <note place="margin">Horace.</note>
+               </q>
+            </p>
+            <p>But <hi>Mammon</hi> is a baſe, and beggarly ſpirit, and ſo was fitly placed at the Apoſtles feet; <hi>nimirum ſic oportuit,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 4. and the laſt. <hi>Royard.</hi> 1 <hi>Tim.</hi> 6.17. <hi>Pro.</hi> 11.28.</note> 
+               <hi>nam calcandae ſunt divitiae,</hi> ſaith a Poſtiller. He is to be rather trampled on with our heels, then attended with our hearts, and no handſome Rivall to ſtand in competition for our confidence with the Living God, who gives us richly all things to enjoy; and he that truſteth in uncertain Riches ſhall fall.</p>
+            <pb n="8" facs="tcp:43762:6"/>
+            <p>Fifthly and laſtly, Riches deal unrighteouſly with us in in every point; for they requite our labour in their purchaſe with fear in their poſſeſſion, and with grief in their loſſe.</p>
+            <q>
+               <l>Creſcentem ſequitur cura pecuniam,</l>
+               <l>Majorumque fames.</l>
+               <note place="margin">Horace.</note>
+            </q>
+            <p>There is indeed a ſort of ineſtimable Riches, wherein there is no unrighteouſneſs at all, I mean the riches of Grace and Glory,<note place="margin">
+                  <hi>Luc.</hi> 16.11.</note> and they are ſtyled by Chriſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the only true Riches: but all riches elſe, for the four conſi<g ref="char:EOLhyphen"/>derable grounds, on which I have now inſiſted, may be call'd The Mammon of unrighteouſneſſe.</p>
+            <p>Whereof to make your ſelves friends is to make provi<g ref="char:EOLhyphen"/>ſion for your ſelves by ſo uſing the fading wealth, where<g ref="char:EOLhyphen"/>with ye are entruſted in this world, that when thoſe tran<g ref="char:EOLhyphen"/>ſitorie comforts forſake you, ye may be received into Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ga.</hi> 2.10 <hi>Job.</hi> 29.15.</note>Now then, to enucleate ſomewhat hence for your ſelves, by way of application; <hi>Remember the poor; be eyes to the blind, and feet to the lame.</hi> And becauſe, in ſome caſes, God Almighty doth accept a mite for a million, do thy beſt to ſatisfie the afflicted ſoul,<note place="margin">
+                  <hi>Nehem.</hi> 8.10.</note> and ſend portions to them, for whom nothing is prepared.</p>
+            <p>But remember all this while, that the ſtreams of thy Charity muſt be derived from a pure fountain; theſe friends in my Text will nor be made thine by ill gotten goods, by <hi>Hophnies</hi> hook, or <hi>Habbakucks</hi> net, by force or fraud, by ſhark or legerdemain, by nick and froth, by five and a reach, by falſe weights and ballances, by ſcant meaſures, whether of capacity or application,<note place="margin">
+                  <hi>Mica.</hi> 6.10.</note> which are abominable before God.</p>
+            <p>
+               <note place="margin">Buxtorf. <hi>de</hi> Ab<g ref="char:EOLhyphen"/>breu.</note>The almes box among the Jewes, in the Temples outer Court, was called in the Hebrew tongue <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Kupha Schel Tſedaka,</hi> that is the Cheſt of Juſtice, and that
+<pb n="9" facs="tcp:43762:6"/> one word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Tſadaka,</hi> ſignifies Almes and Juſtice both, to intimate, no doubt, that the matter of our Almes muſt be goods which are juſtly gotten.</p>
+            <p>If then thou canſt ſay <hi>ex animo,</hi> with gray-headed <hi>Samuell,</hi>
+               <note place="margin">1 <hi>Sam.</hi> 12.3.</note> I have wronged no man, I have oppreſſed no man, I have defrauded no man, I have received no bribes; <hi>I</hi> have taken no mans Oxe, no mans Aſſe, no mans horſe; but here am I, O Lord, with a bleſſing in my hand, of that which is juſtly mine, of that which thou haſt bleſſed upon the ſweating of my brow, or the working of my brain; and now, Lord, in all humility, and thank<g ref="char:EOLhyphen"/>fulneſs I returne it unto thee; by theſe poor, and blind crea<g ref="char:EOLhyphen"/>tures of thine own ſubſtitution, whom thou haſt appointed to be ever in the world, for the exerciſe of my Charity.</p>
+            <p>And if thus ye fail not to remember them now, remem<g ref="char:EOLhyphen"/>ber how God will remember you for it, in your latter end; which if ye ſhould forget, and remember no longer, then whilſt ye are ſermon-warme, the next part of my Text will remember you of it.</p>
+            <p>The Conſcription of the end, by way of Remuneration,<note place="margin">3 <hi>Gener.</hi>
+               </note> or Reward, <hi>When ye fail,</hi> ye ſhall not fail of friends to <hi>re<g ref="char:EOLhyphen"/>ceive ye into everlaſting habitations.</hi>
+            </p>
+            <p>In which <hi>Epiphonema</hi> or cloſe of all, the recompence of your charity is highly extolled by three remarkable circum<g ref="char:EOLhyphen"/>ſtances, as was laid out in the diviſion of my Text.</p>
+            <p>The firſt whereof is taken from the tempeſtivity, or ſea<g ref="char:EOLhyphen"/>ſonableneſs of the time of it's collating, which is,</p>
+            <p>
+               <hi>When ye ſhall fail.</hi>
+            </p>
+            <p>Wealth is like a Wild-Foul,<note place="margin">1 <hi>Circ. Prov.</hi> 23.5.</note> and riches have Wings; yet do they not ſo quickly fail the Stewards, as the Stewards, fail themſelves.</p>
+            <q>
+               <l>Diveſue priſco natus ab Inacho,</l>
+               <l>Quid intereſt? An infirma de gente!</l>
+               <l>Moreris, Victima nil miſecantis Orci.</l>
+            </q>
+            <pb n="10" facs="tcp:43762:7"/>
+            <p>Wert thou Mammons Eldeſt ſon, ſole heir to all the Uſerers in the World, yet death will not fail to ſtrike thy Veſſell, becauſe it hath ſilken ſails, and is ballac't with refined Aure; even the Mitted, and the crowned, and the Turban'd head muſt one day fail, as well as he, who may not put on his hat, or hath not a hat to put on at all.</p>
+            <p>It was an ancient cuſtom among the Romans, that a Ma<g ref="char:EOLhyphen"/>ſon ſhould ſalute the Emperour,<note place="margin">Livie.</note> on the very day of his Co<g ref="char:EOLhyphen"/>ronation, with his lap full of Stones, and bid <hi>Caeſar</hi> chuſe what ſort of them he pleas'd ſhould be prepar'd, and po<g ref="char:EOLhyphen"/>liſh't for his Sepulchre.</p>
+            <p>It fares with us mortals as with flowers, and ſome flies, which grow up and ſeed and die.</p>
+            <p>By vertue of that unrepealable ſtatute, Heb. 9.27. come a time there muſt for our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a time <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> when we ſhall be in the Ecclipſe, and fail out of this pre<g ref="char:EOLhyphen"/>ſent life; fail of health, and fail of ſtrength, and fail of light, and fail of breath, and fail of honours, and fail of lands,<note place="margin">
+                  <hi>Pſal.</hi> 88.18.</note> and goods, and wives, and children, and friends, and neighbours, and all our acquaintance ſtand afar off.</p>
+            <p>But notwithſtanding all thoſe failings your charity fails you not, that's a grace indeed, as of the lovelieſt countenance, ſo of the longeſt continuance, and will bear you company, as the ſhadow doth the body, and never be beaten off, but follow you,<note place="margin">
+                  <hi>Apoc.</hi> 14.13.</note> ſaith a voice from heaven, <hi>Bleſſed are the dead which dye in the Lord, for their works follow them.</hi>
+            </p>
+            <p>And then, as for <hi>Bajazet</hi> to change his <hi>Seraglio</hi> for a Cage was a kind of ſtrappado to his humane Soul; as for <hi>Valerian</hi> to become a foot-ſtool to his proud foe, might challenge the tribute of a bleeding eye, ſo then, I ſay, for the mercifull minded man to meet with majeſtie in miſery, with conſo<g ref="char:EOLhyphen"/>lation in deſolation, with high erection in deep dejection, with ſuch a confection, and receit as this, in time of his
+<pb n="11" facs="tcp:43762:7"/> defection, is an exuberant guerdon, an unparallel'd retribu<g ref="char:EOLhyphen"/>tion and ſhould therefore diſpoſe our wayes to the attain<g ref="char:EOLhyphen"/>ment of everlaſting ſalvation, by making our ſelves <hi>friends of the Mammon of unrighteouſneſs,</hi> that is, by workes of mercy, againſt the time when we ſhall fail.</p>
+            <p>And farther I carry not this firſt compenſation of your beneficence, deduced plainly from the Tempeſtivity, or ſeaſonableneſs of the time of it's collating, that is, when ye ſhall fail.</p>
+            <p>I haſten now to the ſecond circumſtance, which magni<g ref="char:EOLhyphen"/>fies the reward of your Chriſtian Charity, from the dignitie of the perſons thus requiting.</p>
+            <p>They may receive you; and who they are,<note place="margin">2 <hi>Circ.</hi>
+               </note> I ſhall ex<g ref="char:EOLhyphen"/>pound with all convenient brevity, and go on.</p>
+            <p>The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here is imperſonally ſet without a no<g ref="char:EOLhyphen"/>minative caſe, and denotes them not, tells us not what manner of perſons theſe receivers are, whether God, good Angells, or good workes.</p>
+            <p>So that, after the manner of Scripture-ſpeaking, they may receive you, is no more, then ye maybe received, that is, your works of charity, through Gods acceptance, and promiſe to reward them, may prepare as 'twere for you a reſting place in heaven.</p>
+            <p>But becauſe the paſſive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is actively tranſlated in all our Engliſh Teſtaments, pleaſe ye hear how the Fa<g ref="char:EOLhyphen"/>thers deſcant on the words, and what Paraphraſe they make upon this pronoune <hi>They.</hi>
+            </p>
+            <p>
+               <note place="margin">Ambroſe in Lu<g ref="char:EOLhyphen"/>cam.</note> And firſt they are the holy Angels, of whom thus ſweet<g ref="char:EOLhyphen"/>ly ſang that Nightingaile of <hi>France,</hi> I mean our <hi>Joſuah Syl<g ref="char:EOLhyphen"/>veſter</hi> in his <hi>Du Bartas.</hi>
+            </p>
+            <q>
+               <l>The ſacred Tutors of the Saints, the Guard</l>
+               <l>Of Gods elect, the Purſuivants prepar'd</l>
+               <l>To execute the counſails of the Higheſt.</l>
+            </q>
+            <pb n="12" facs="tcp:43762:8"/>
+            <p>Saint <hi>Paul</hi> ſtates the matter by way of queſtion, Are not the Angells miniſtring Spirits, ſent forth for their good, who ſhall be heirs of ſalvation? <note place="margin">
+                  <hi>Heb.</hi> 1.14.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Pſal.</hi> 91.10, 11, 12.</note>The Prophet <hi>David</hi> poſitively thus, <hi>there ſhall no evill befall thee, nor any plague come nigh thy dwelling, for God ſhall give his Angells charge over thee, to keep thee in all thy waies;</hi> nay, <hi>to bear the up.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Luc.</hi> 15.10.</note> That feathered Hierarchie, which clap their wings at the converſion of a ſinner, doth carefully attend us from our very cradles to our graves, and thence take and carry the <hi>Bleemeſmarie</hi> man into <hi>Abraham's</hi> boſome,<note place="margin">
+                  <hi>Luk.</hi> 16.22, 23, 25.</note> but leave the unmercifull to be tormented in the flames of Hell.</p>
+            <p>That then the King of Heaven imploys here on earth his Pages of Honour, and Princes of his Court, diſpoſeth his Angels, thoſe glorious Heralds, that when ye fail, they may receive you, the Dignity of the perſons doth hugely improve the recompenſe of the reward.</p>
+            <p>To wave the opinion <hi>Bonaventure</hi> in this point, Saint <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> in the next place conjectures theſe Receivers are not the poor in ſpirit, but the poor in purſe, and that they, who have been your clients in this, ſhall be your patrons in a better world.</p>
+            <p>But that interpretation muſt be figuratively underſtood, becauſe to receive you at your laſt gaſp is in the power of Ieſus Chriſt alone; and therefore your almes men can<g ref="char:EOLhyphen"/>not be called the Receivers properly, but by his allowance and conceſſion; and ſo an Almes being asked of you by them in the name, and beſtowed by you upon them for the ſake of Chriſt, he is pleaſed by a Figure call'd <hi>Metale<g ref="char:EOLhyphen"/>pſis</hi> to attribute that to ſuch as take it, which is only his own peculiar prerogative.</p>
+            <p>The originall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is indeed no more, then to propoſe
+<pb n="13" facs="tcp:43762:8"/> and praiſe one, ſaith <hi>Demoſthenes,</hi> that he may be required by a better man, which is the very caſe that lies before us; and ſo the poor mans prayers for his Benefactors, being the interceſſion of Gods own Spirit,<note place="margin">
+                  <hi>Rom.</hi> 8.26.</note> muſt needs become pow<g ref="char:EOLhyphen"/>erful with the God of ſpirits, who, the good ye do to others, will take as done to him, and for that himſelf receive you,<note place="margin">
+                  <hi>Matt.</hi> 25 34.</note> and bid you take poſſeſſion of his <hi>Kingdome prepared for you from the beginning of the world.</hi>
+            </p>
+            <p>And thus much for the ſmoothing of this knotty circum<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>
+               <note place="margin">3 <hi>Circ.</hi>
+               </note> The laſt thing which amplifies this exceeding great re<g ref="char:EOLhyphen"/>ward is drawn from the excellency of the places of your re<g ref="char:EOLhyphen"/>ception, deciphred by their property, plurality, and per<g ref="char:EOLhyphen"/>petuity, wherein your patience will ſhorten my way, as my care ſhall ſhorten a way to your patience.</p>
+            <p>And firſt for their property.</p>
+            <p>Habitations.</p>
+            <p>
+               <note place="margin">
+                  <hi>Gen</hi> 19.2.</note>Not Diverſories; for Pilgrims, and ſtrangers, and way<g ref="char:EOLhyphen"/>faring men are wont to turn in thither, for a ſnap, or nap, and be gone; or for a night at moſt, and then pack away.</p>
+            <p>Again, not Tabernacles, for they are onely for a ſhort pitch in <hi>Rephidim,</hi> and removable at pleaſure.</p>
+            <p>
+               <note place="margin">
+                  <hi>Exo.</hi> 17.1.</note> Once more, not houſes, for they will ſcarce outlaſt a leaſe of three lives, or 21 Years; but Habitations, that is Manſions, ſtanding Houſes, places for ſetled reſidence; not for progreſſe, but abode, not for motion, but for reſt;<note place="margin">
+                  <hi>Apocae.</hi> 14.13.</note> we are here in a kind of reſtleſs <hi>Euripus,</hi> but there we ſhall reſt <hi>from all our labours.</hi>
+            </p>
+            <p>The Prophet <hi>Iſaiah</hi> calls them <hi>ſure dwellings of quiet reſt.</hi>
+               <note place="margin">
+                  <hi>Iſai.</hi> 32.18.</note>
+            </p>
+            <p>And ſurely if the unjuſt ſteward ſhall have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is Houſes to receive him, as he cunningly made his bargain, we may without Logick, or any Sophiſtry, by an <hi>Enthememe</hi> inferre, <note place="margin">
+                  <hi>Luk.</hi> 16.4.</note> that the mercifull Steward ſhall enjoy <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:43762:9"/> here, theſe habitations in my Text to comfort him.</p>
+            <p>That Greek word indeed doth not ſignifie Habitations, with bare walls onely,<note place="margin">Zen.</note> and nothing elſe, but durabilities of miniſtrelſie, and joy; nay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a banquet, as <hi>Zene<g ref="char:EOLhyphen"/>phon</hi> uſeth it, and whether this receiving be the glory of the ſoul alone, before the Reſurrection, (for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I utterly deny) or the ſoul and body both to<g ref="char:EOLhyphen"/>gether glorified after the Reſurrection, (which I ſtedfaſt<g ref="char:EOLhyphen"/>ly believe) under both thoſe notions we may truly ſay with the ſweet ſinger of <hi>Iſrael,</hi>
+               <note place="margin">David.</note> 
+               <hi>In thy preſence, Lord, is the fulneſs of joy,</hi> Pſ. 16. and the laſt.</p>
+            <p>Some of you have already ſeen, more or leſſe, the ma<g ref="char:EOLhyphen"/>gnificence of earthly Princes, in their buildings, furnitures, and Feaſts; Open now awhile the eyes of your contem<g ref="char:EOLhyphen"/>plation, and look a little further into theſe habitations.</p>
+            <p>The platforme is ready, and drawn to the life, <hi>Apoca.</hi> 21. from the tenth verſe, to the end of that chapter; for there is one greater then <hi>Apelles</hi> himſelf.</p>
+            <p>There ye may ſee a four-ſquare city, the walls of Jaſper, the foundation garniſhed with all manner of precious ſtones; twelve gates of twelve pearles, the Houſes, and ſtreets of pure gold; a Chriſtall river runs through the middeſt of it, and upon the banks of it grows the Tree of life, ever green, ever fruitfull, and the very leaves con<g ref="char:EOLhyphen"/>duce to the healing of the Nations.</p>
+            <p>And this for the eye; the ear ſhall be filled with the melody of Angells, the taſte ſatisfied with the food of Angells.</p>
+            <q>Nobile perpetuâ caput amplexante coronâ.</q>
+            <p>And ſo much for the property of theſe Habitations.</p>
+            <p>As concerning the plurality, which is my next part, not one but many,<note place="margin">
+                  <hi>Joh.</hi> 14.2.</note> habitations in the plurall number; In my Fathers Houſe, ſaith Chriſt; are many manſions, and
+<pb n="15" facs="tcp:43762:9"/> conſequently room enough to receive out of every kindred,<note place="margin">
+                  <hi>Apo.</hi> 5.9.11.</note> and people, and tongue, and nation, <hi>thouſands of thouſands, and ten thouſand times ten thouſand.</hi>
+            </p>
+            <p>I have ſeen the Portraicture of the <hi>Macedonian Monarch,</hi>
+               <note place="margin">Alexan<g ref="char:EOLhyphen"/>der.</note> upon the terreſtriall Globe, peering to <hi>the Antipodes,</hi> with this diſcontented Motto over his head,
+<q>Uni non ſufficit orbis.</q>
+            </p>
+            <p>One world is not enough for one man; but no ſcanting, and ſo complaining will there be in Heaven, as in this narrow Orbe, for want of elbow-room. <hi>Omnipotens Do<g ref="char:EOLhyphen"/>minus, omnipatenſque Domus.</hi>
+            </p>
+            <p>As one ſtar differeth from another in glory, ſo I am ſure, ſhall be the Reſurrection of the Dead, and yet eve<g ref="char:EOLhyphen"/>ry Saint ſhall there enjoy a full meaſure of heavenly bliſſe,<note place="margin">1 <hi>Cor.</hi> 15 41, 42.</note> from the beatificall viſion, which filleth all in all.</p>
+            <p>And therefore, I beſeech you, take no thought,<note place="margin">
+                  <hi>Mat.</hi> 20.20, 21.</note> with thoſe ambitious ſons of <hi>Zebedee,</hi> who ſhall ſit higheſt in Gods Kingdome, trouble not your ſelves now, about the manner of your entertainment then; Put on onely as the Elect of God, bowells of mercy, make your ſelves theſe faſt friends of the <hi>Mammon of unrighteouſneſs, who when you fail,</hi> will not fail you, but wait for the time, till your change ſhall come, and then receive, and conduct you in<g ref="char:EOLhyphen"/>to ſome one, or other of theſe Many Habitations.</p>
+            <p>Where once, ye ſhall not be, as in theſe tumultuous times, thruſt out of your Houſes ever and anon, but af<g ref="char:EOLhyphen"/>ter that poſſeſſion there will be ſeſſion,<note place="margin">Virg.</note>—<hi>Veſtra inquam munera vobis certa manent,</hi> there once, I ſay, ye ſhall ne<g ref="char:EOLhyphen"/>ver be removed, for they are everlaſting, there perpetuity, and my laſt particular.</p>
+            <q>Habitations Everlaſting.<note place="margin">2 <hi>Cor.</hi> 5.1.</note>
+            </q>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here is a word of ſempiternity, and ſhrin's a du<g ref="char:EOLhyphen"/>rance throughout all generations; and if our earthly houſe
+<pb n="16" facs="tcp:43762:10"/> of this Tabernacle were diſſolved, we have a building of God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith St. <hi>Paul,</hi> an houſe not made with hands, eternall in the Heavens.</p>
+            <p>
+               <hi>Lucullus</hi> the Roman had his change of ſumptuous, and ſtately Piles, and if <hi>Plutarch</hi> ſay true, his Aeſtivall rooms, and receits for delight, excuded out of rocks in the vaſt O<g ref="char:EOLhyphen"/>cean; but ſuch was their craſineſs, that both thoſe, and theſe held him to repairs, and put him to building ever and anon.</p>
+            <p>
+               <hi>Jenojakin</hi> King of <hi>Judah</hi> had <hi>coenacula, ventoſa, &amp; perfla<g ref="char:EOLhyphen"/>bilia,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 22.15. <hi>Amos.</hi> 3. and the laſt.</note> his Summer Parlours, and cooling Galleries, <hi>ſeeled with Cedar,</hi> and painted with Vermillion; <hi>But I will ſmite the Winter Houſe, with the Summer Houſe, ſaith the Lord, and the Houſes of Ivory ſhall periſh, and the great houſes have an end.</hi> We have verily, nothing here below, but corrupts, takes ſoile, and fades away; one mans inheritance is preſent<g ref="char:EOLhyphen"/>ly gone by another mans purchaſe; but if it laſt awhile, it may be confiſcate for ſome offences, or eſcheated for want of Heirs, or ſequeſtred for delinquency, or quite brought to nothing by unthriftineſs, or by the immediate judgment of Heaven upon the children of diſobedience.</p>
+            <p>
+               <note place="margin">1 <hi>Pet.</hi> 7.4.</note>But theſe habitations mentioned in my Text are in no danger of any the leaſt either alteration, or decay, but uncorrupt, and ſhall hold the Being, undefiled, and ſhall hold the Aſſay, never fade, but continue in their prime, for they are everlaſting. <hi>Nec reticeri, nec recitari, nec ſup<g ref="char:EOLhyphen"/>primi, nec exprimi poſſunt;</hi> No tongue can tell, no heart conceive the bound, and end, for there is neither bound nor end of theſe habitations everlaſting.</p>
+            <p>
+               <note place="margin">
+                  <hi>Deu.</hi> 15.7, 8, 10.</note>Now then, that your fleſh may come to ſuch honour, as to be received at length into Habitations everlaſting, obey that hypotheticall motion of the Spirit, if there be among you a poor man within any of your gates, wherein the Lord
+<pb n="17" facs="tcp:43762:10"/> your God hath bleſſed you, ye ſhall not harden your hearts, nor ſhut your hands, but open them wide, and lend, nay give what is ſufficient for his need.</p>
+            <p>
+               <note place="margin">Berco. in red. mor.</note> 
+               <hi>Duplicatum erit filiis juſti, quod juſtus dedit filiis Dei;</hi> and therefore let us <hi>ardere charitatis zelo,</hi> that we may <hi>ſplen<g ref="char:EOLhyphen"/>dere ſanctitatis velo,</hi> and <hi>gaudere Deitatis coelo in ſempiterno ſaeculorum ſaeclo.</hi>
+            </p>
+            <p>I conclude all with that one ſhort Apoſtrophe to the rich Steward, and charge him from God,<note place="margin">1 <hi>Tim.</hi> 6.18.</note> that he become <hi>Rich in good works, ready to diſtribute, willing to communicate;</hi> wherein he cannot deliberate long for objects, unleſſe it be more for multitude then want; <hi>Lazarus</hi> lies at every door.</p>
+            <p>And let no Steward elſe, though bankrupt for eſtate, think himſelf unconcerned in his portion of Scripture, for every preſent ſoul, in one capacity or other, is an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Steward of ſome goods of God; Magiſtrates are his Stewards of the Common-wealth, Miniſters are his Ste<g ref="char:EOLhyphen"/>wards of the Church, Maſters of their private Families, and each one is a Steward of the privie cloſet of his Con<g ref="char:EOLhyphen"/>ſcience. And therefore let us all in our ſeverall places, lay ſure hold upon well doing, that we may have comfort in well dying, and when we fail, be crowned with the re<g ref="char:EOLhyphen"/>ward of theſe habitations everlaſting, through thy great mercy, O moſt bleſſed Lord God, who doeſt live, and go<g ref="char:EOLhyphen"/>verne all things, world without end. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
